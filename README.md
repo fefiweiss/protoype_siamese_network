@@ -1,1 +1,1 @@
-# Protoype_siamese_nn
+# Protoype Siamese Neural Network
